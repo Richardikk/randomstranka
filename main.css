@@ -1,0 +1,36 @@
+body {
+	background-color: #171717;
+}
+
+
+
+#jedna {
+	text-align: center;
+	border-radius: 30px;
+	height: 100px;
+	width: 700px;
+	background-color: #f9dc01;
+	color: black;
+	margin: auto;
+}
+
+
+
+#obrazek {
+	height: 200px;
+	width: 1000px;
+
+
+
+}
+
+.odkaz {
+	font-size: 50px;
+	text-align: center;
+	color: orange;
+
+}
+
+.odkaz:hover {
+	color: red;
+}
